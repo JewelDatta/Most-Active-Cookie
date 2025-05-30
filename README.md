@@ -64,7 +64,7 @@ make mypy     # Run mypy type checks
 make clean
 ```
 
-Example Input as filename.csv
+Example Input as cookie_log.csv
  
 ```
 cookie,timestamp
